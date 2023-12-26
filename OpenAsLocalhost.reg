@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.html\shell\OpenAsLocalhost]
+@="Open as localhost"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.html\shell\OpenAsLocalhost\command]
+@="\"C:\\Program Files\\openaslocalhost\\OpenAsLocalhost.bat\" \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.php\shell\OpenAsLocalhost]
+@="Open as localhost"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.php\shell\OpenAsLocalhost\command]
+@="\"C:\\Program Files\\openaslocalhost\\OpenAsLocalhost.bat\" \"%1\""
