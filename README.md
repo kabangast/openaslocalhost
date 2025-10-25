@@ -4,8 +4,8 @@ This project provides a simple solution to open HTML and PHP files in the defaul
 
 ## Usage
 
-- **Batch File**: OpenAsLocalhost.bat
-- **Registry Script**: OpenAsLocalhost.reg
+- **Batch File**: openaslocalhost.bat
+- **Registry Script**: openaslocalhost.reg
 
 ## How it Works
 
@@ -13,9 +13,9 @@ The batch file uses string replacement to convert the local file path to a local
 
 ## Installation
 
-1. Place the `OpenAsLocalhost.bat` file in a directory, e.g., `C:\Program Files\openaslocalhost`.
-2. Modify the paths in the `OpenAsLocalhost.reg` file to match the location of the batch file.
-3. Double-click the `OpenAsLocalhost.reg` file to add the context menu entries to the registry.
+1. Place the `openaslocalhost.bat` file in a directory, e.g., `C:\Program Files\.me\openaslocalhost`.
+2. Modify the paths in the `openaslocalhost.reg` file to match the location of the batch file.
+3. Double-click the `openaslocalhost.reg` file to add the context menu entries to the registry.
 
 ## Usage
 
